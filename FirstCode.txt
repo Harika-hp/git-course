@@ -10,3 +10,7 @@ Hi Hello Harika!
 // to perfome add and commit in same commad --> git commit -a -m "give message"
 // to know what changes as been done---> git diff
 // to delete the files --> git rm --cached filename
+
+// to copy the code from github--> git clone mention the https path from github
+// to connect the local files to git hub --> git remote add origin (mention the SSH link)
+// to puch the code to github --> git push -u origin main  
