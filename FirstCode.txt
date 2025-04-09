@@ -4,7 +4,9 @@ Hi Hello Harika!
 //to initials=ze the git and specify the branch--> git init -b branchname
 // to know the status of the file --> git status
 //to add the file to the stagging area use --> git add filename
+// to add all the files --> git add.
 // to commit the changes --> git commit -m "Give the message"
 // to get the logs of the changes ---> git log
 // to perfome add and commit in same commad --> git commit -a -m "give message"
 // to know what changes as been done---> git diff
+// to delete the files --> git rm --cached filename
