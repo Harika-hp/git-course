@@ -14,3 +14,5 @@ Hi Hello Harika!
 // to copy the code from github--> git clone mention the https path from github
 // to connect the local files to git hub --> git remote add origin (mention the SSH link)
 // to puch the code to github --> git push -u origin main  
+
+// create a branch--> git switch -c (name of the branch)
