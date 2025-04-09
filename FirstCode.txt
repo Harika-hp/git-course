@@ -16,3 +16,6 @@ Hi Hello Harika!
 // to puch the code to github --> git push -u origin main  
 
 // create a branch--> git switch -c (name of the branch)
+
+// before merging pull the branch you need to merge --> git pull origin {branch name}
+//merge the branch to main branch(make sure your in main barnch) --> git merge (Mention the branch name)
