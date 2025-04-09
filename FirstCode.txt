@@ -1,4 +1,4 @@
-Hi Hello!
+Hi Hello Harika!
 
 
 //to initials=ze the git and specify the branch--> git init -b branchname
@@ -7,3 +7,4 @@ Hi Hello!
 // to commit the changes --> git commit -m "Give the message"
 // to get the logs of the changes ---> git log
 // to perfome add and commit in same commad --> git commit -a -m "give message"
+// to know what changes as been done---> git diff
