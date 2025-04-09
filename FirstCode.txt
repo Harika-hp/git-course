@@ -1,1 +1,9 @@
-Hi Hello
+Hi Hello!
+
+
+//to initials=ze the git and specify the branch--> git init -b branchname
+// to know the status of the file --> git status
+//to add the file to the stagging area use --> git add filename
+// to commit the changes --> git commit -m "Give the message"
+// to get the logs of the changes ---> git log
+// to perfome add and commit in same commad --> git commit -a -m "give message"
